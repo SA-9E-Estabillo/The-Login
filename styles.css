@@ -1,0 +1,58 @@
+body {
+	text-align: center;
+	font-family: monospace;
+	color: black;
+	
+}
+
+h4 {
+	font-size: 40px;
+	background-color: lightgray;
+	width: auto;
+	margin: auto;
+	border: 5px solid;
+	border-color: grey;
+	border-radius: 25px;
+	padding: 10px;
+}
+
+input {
+	border-color: black;
+	border radiues: 10px;
+	padding: 5px;
+}
+
+
+img {
+	border-radius: 50px;
+}
+
+#fullname {
+    font-size: 25px;
+    text-align: left;
+}
+
+#password {
+    font-size: 25px;
+    text-align: left;
+}
+
+.back-video {
+    position: absolute;
+    right: 0;
+    left: 1;
+	bottom: 0;
+	z-index: -1;
+}
+
+.container {
+	background-color: lightgray;
+	width: 300px;
+	margin: auto;
+	border: 5px solid;
+	border-color: navy;
+	border-radius: 25px;
+	padding: 25px;
+}	
+
+
